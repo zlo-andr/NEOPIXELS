@@ -1,0 +1,22 @@
+{
+	"name": "NEOPIXELS",
+	"version": "0.0.1",
+	"description": "NEOPIXELS Driver for CH32V003 with CH32V003FUN",
+	"keywords": "CRT, ch32, led, microcontroler, risc-v, ch32v003",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/zlo-andr/NEOPIXELS.git"
+	},
+	"authors": [
+		{
+			"name": "ZLOANDR",
+			"email": "andreykrmr2016@yandex.ru",
+			"url": "https://github.com/zlo-andr",
+			"maintainer": true
+		}
+	],
+	"license": "MIT",
+	"homepage": "https://github.com/zlo-andr/NEOPIXELS.git",
+	"frameworks": "*",
+	"platforms": "*"
+}
